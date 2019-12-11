@@ -1,6 +1,11 @@
 # video_channels
 
-A new Flutter project.
+Project Solodroid v2 ini hanya sedikit perubahan pada versi sebelumnya, diantaranya:
+
+1. Perubahan UI pada bagian HOME.
+2. Penambahan lib ads admob dan penempatan iklan admob.
+
+Project ini hanya baru awalnya saja, masih belum sempurna atau complete.
 
 ## Getting Started
 
